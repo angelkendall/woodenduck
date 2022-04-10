@@ -147,7 +147,7 @@ h1,h2 {
     justify-content: center;
     flex: 1;
     max-width: 150px;
-    min-height: 150px;
+    max-height: 150px;
 }
 
 .duckpictures {
